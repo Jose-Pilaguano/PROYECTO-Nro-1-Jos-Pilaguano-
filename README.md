@@ -16,8 +16,6 @@ Aplicar el teorema de Norton para simplificar un circuito lineal con dos extremo
 
 Aplicar el teorema de superposición para desarrollar circuitos con múltiples fuentes.
 
-Aprender la reducción de circuitos Wheatstone mediante la conversión de circuitos Δ a Y o Y a Δ.
-
 2.MARCO TEÓRICO
 
 Un transistor, es un dispositivo semiconductor impulsado por corriente, que puede ser utilizado para controlar el flujo de corriente eléctrica en la que una pequeña cantidad de corriente en el conductor base controla una mayor cantidad de corriente entre el.
