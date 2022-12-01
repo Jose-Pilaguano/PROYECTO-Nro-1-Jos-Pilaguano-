@@ -1,5 +1,6 @@
 # PROYECTO-Nro-1-Jos-Pilaguano-
 
+INTEGRANTES 
 
 HENRY MACÍAS
 
@@ -38,7 +39,8 @@ DESARROLLO!
 ![image](https://user-images.githubusercontent.com/116677175/205122254-84be4538-cd43-496c-9086-c22815e4affd.png)
 
 LISTA DE COMPONENTES
-4 resistencias de 1 kohmio 3 transistores 2N3904 1 Batería de 9v 1 Adaptador de pila o broche de pila 3 luces Led 4 cables macho 1 protoboard 3 cables puente
+4 resistencias de 1 kohmio 3 transistores 2N3904 1 Batería de 9v 1 Adaptador de pila o broche de pila 3 luces Led 4 cables macho 1 protoboard 3 cables
+
 
 EXPLICACIÓN
 Mediante lo observado en el video se procede a armar el circuito en fisico uniendo los componentes de ordenada y teniendo en cuenta que todo tiene sus respectivas medidas como se muestra en el siguiente video a continuacion.
